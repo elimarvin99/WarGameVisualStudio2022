@@ -1,0 +1,15 @@
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\bin\Debug\net6.0\WarGameVisualStudio2022.exe
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\bin\Debug\net6.0\WarGameVisualStudio2022.deps.json
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\bin\Debug\net6.0\WarGameVisualStudio2022.runtimeconfig.json
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\bin\Debug\net6.0\WarGameVisualStudio2022.dll
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\bin\Debug\net6.0\ref\WarGameVisualStudio2022.dll
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\bin\Debug\net6.0\WarGameVisualStudio2022.pdb
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.csproj.AssemblyReference.cache
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.AssemblyInfoInputs.cache
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.AssemblyInfo.cs
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.csproj.CoreCompileInputs.cache
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.dll
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\ref\WarGameVisualStudio2022.dll
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.pdb
+C:\Users\elima\Assorted C# Files\WarGameVisualStudio2022\WarGameVisualStudio2022\obj\Debug\net6.0\WarGameVisualStudio2022.genruntimeconfig.cache
